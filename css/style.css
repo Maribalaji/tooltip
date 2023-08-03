@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width:80%;
+    margin: auto;
+    text-align: center;
+}
+
+ img{
+    width:40%;
+    border:1px solid black;
+    
+    
+}
+
+.btn1{
+
+    background-color: rgb(240, 172, 172);
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 10px 15px;
+    
+    margin:10px; 
+ }
+.cont{
+   font-size:18px;
+   color:rgb(241, 69, 69);
+    position: relative;
+}
+.para{ 
+    display: none;
+}
+#par{
+     border:1px solid bisque;
+    
+    padding: 10px 0px;
+    background-color: bisque;
+    
+    border-radius: 5px;
+}
+
+   
+

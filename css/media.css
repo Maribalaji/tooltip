@@ -1,0 +1,60 @@
+/* mobile */
+@media(min-width:320px){
+
+    #par{
+        
+        width:88%;
+    }
+
+
+    .icon{
+
+        position: absolute;
+        top:23%;
+        right:20%;
+    
+    }
+
+}
+
+/* ipad */
+@media(min-width:660px){
+
+
+    #par{
+        
+        width:50%;
+        margin-left: 25%;
+    }
+
+
+    .icon{
+
+        position: absolute;
+        top:22%;
+        right:31%;
+    
+    }
+
+}
+
+
+/* laptop */
+@media(min-width:960px){
+
+    #par{
+        margin-left:33%;
+        width:30%;
+    }
+
+
+
+    .icon{
+
+        position: absolute;
+        top:62%;
+        right:40%;
+    
+    }
+
+}
